@@ -12,11 +12,9 @@
 
 ###
 
-<h2 align="left">o que uso na prática</h2>
-
-###
-
-<h6 align="left"></h6>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=o%20que%20uso%20na%20pr%C3%A1tica&fontSize=25&fontColor=885cfb&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
 
 ###
 
@@ -49,17 +47,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarokaycss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarokaycss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarokaycss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarokaycss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
 
-<h6 align="left"></h6>
-
-###
-
-<h2 align="center"></h2>
+<img src="https://raw.githubusercontent.com/alvarokaycss/alvarokaycss/output/snake.svg" alt="Snake animation" />
 
 ###
 
