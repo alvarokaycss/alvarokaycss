@@ -55,8 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alvarokaycss/alvarokaycss/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div>
