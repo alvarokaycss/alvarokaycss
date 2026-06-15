@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Sou um desenvolvedor em formação com experiência prática em sistemas web, automações e integrações. Atuo principalmente no backend e banco de dados, com foco em lógica, dados e processos. Interesse em construir soluções simples, testáveis e sustentáveis para problemas reais.</h3>
+<h3 align="left">Sou um desenvolvedor em formação. Interesse em construir soluções simples, testáveis e sustentáveis para problemas reais.</h3>
 
 ###
 
