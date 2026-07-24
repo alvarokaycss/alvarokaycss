@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Stacks & Ferramentas Organizadas
+### 🛠️ Stacks & Ferramentas
 
 <div align="center">
 
