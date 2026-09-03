@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img style="width: 100%; max-width: 850px;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=%C3%81lvaro%20Kayc&fontSize=38&fontColor=00b4d8&fontAlign=50&fontAlignY=35&color=0f2d37" alt="Header Banner" />
+  <img style="width: 100%; max-width: 850px;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=%C3%81lvaro%20Kayc&fontSize=38&fontColor=f0f9ff&fontAlign=50&fontAlignY=35&color=0284c7" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&height=50&lines=Desenvolvedor+Full+Stack;Foco+em+Backend;Python+%7C+Node.js+%7C+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=550&height=50&lines=Desenvolvedor+Full+Stack;Foco+em+Backend;Python+%7C+Node.js+%7C+React;AI+Agents+%26+MCP+Architecture" alt="Typing SVG" />
   </a>
 
   <p>👋 <b>Olá! Sou o Álvaro Kayc.</b></p>
@@ -66,6 +66,33 @@
 ### 🚀 Projetos em Destaque
 
 <div align="center">
+
+<!-- Destaque Principal (Spotlight AI & MCP) -->
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🤖 Nexus Store — Chatbot com Tools MCP & IA Local</h3>
+      <p align="center"><b>Atendimento Conversacional Autônomo com Ollama e Model Context Protocol</b></p>
+      <p align="center">
+        Arquitetura completa com servidor e cliente MCP integrando LLM local (Ollama). Implementação de ferramentas financeiras, catálogo, reserva de pedidos, liquidação com limite de saldo e regras estritas de resiliência e prevenção contra jailbreak.
+      </p>
+      <br />
+      <p align="center">
+        <b>Techs:</b> <code>TypeScript</code> • <code>Node.js</code> • <code>MCP (Model Context Protocol)</code> • <code>Ollama</code> • <code>JWT</code> • <code>Streaming HTTP</code>
+      </p>
+      <br />
+      <div align="center">
+        <a href="https://github.com/alvarokaycss/lab-chatbot-payments" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Nexus Store" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Projetos Secundários Lado a Lado -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -77,7 +104,7 @@
       <br />
       <div align="center">
         <a href="https://github.com/alvarokaycss/plantao-monitor" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Plantão Monitor" />
+          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Plantão Monitor" />
         </a>
       </div>
     </td>
@@ -90,22 +117,36 @@
       <br />
       <div align="center">
         <a href="https://github.com/alvarokaycss/projeto-sman" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Repositório SMAN" />
+          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Repositório SMAN" />
         </a>
       </div>
     </td>
   </tr>
 </table>
+
 </div>
 
 <br />
 
 ---
 
-### 📊 Atividade no GitHub
+### 📊 Atividade & Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarokaycss&theme=react-dark&hide_border=true" width="100%" max-width="850px" alt="Gráfico de Atividade no GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=alvarokaycss&theme=cobalt&hide_border=true" height="175" alt="GitHub Streak Stats" />
+
+  <br /><br />
+
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvarokaycss&show_icons=true&theme=cobalt&hide_border=true" height="175" alt="Estatísticas Gerais do GitHub" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=alvarokaycss&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true" height="175" alt="Linguagens Mais Utilizadas" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -144,5 +185,5 @@
 <br />
 
 <div align="center">
-  <img style="width: 100%; max-width: 850px;" src="https://capsule-render.vercel.app/api?type=soft&height=40&section=footer&reversal=false&color=0f2d37" alt="Footer Banner" />
+  <img style="width: 100%; max-width: 850px;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&color=0284c7" alt="Footer Banner" />
 </div>
